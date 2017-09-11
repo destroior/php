@@ -4,7 +4,7 @@
   <meta name="viewport" charset="utf-8" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0">
   <title>test</title>
 </head>
-<body">
+<body>
   <?php
 
 $conn = new mysqli('sql8.freemysqlhosting.net', 'sql8194103', 'RdxTLtHByD');
